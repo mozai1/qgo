@@ -22,6 +22,10 @@
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
+  <property name="windowIcon">
+   <iconset resource="../application.qrc">
+    <normaloff>:/resources/pics/board_icon_16x16.png</normaloff>:/resources/pics/board_icon_16x16.png</iconset>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <property name="minimumSize">
     <size>
@@ -5269,7 +5273,7 @@ Resign the game immediately. Clicking here is a default loss. Your opponent wins
      <x>0</x>
      <y>0</y>
      <width>981</width>
-     <height>22</height>
+     <height>19</height>
     </rect>
    </property>
   </widget>

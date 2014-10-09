@@ -56,7 +56,9 @@
          <string>Disconnect</string>
         </property>
         <property name="icon">
-         <iconset theme="network-disconnect"/>
+         <iconset theme="network-disconnect">
+          <normaloff/>
+         </iconset>
         </property>
         <property name="checkable">
          <bool>true</bool>
@@ -720,9 +722,8 @@
             <string>Refresh players list</string>
            </property>
            <property name="icon">
-            <iconset theme="view-refresh">
-             <normaloff/>
-            </iconset>
+            <iconset resource="application.qrc">
+             <normaloff>:/resources/pics/refresh_players.png</normaloff>:/resources/pics/refresh_players.png</iconset>
            </property>
           </widget>
          </item>
@@ -831,9 +832,8 @@
             <string/>
            </property>
            <property name="icon">
-            <iconset theme="view-refresh">
-             <normaloff/>
-            </iconset>
+            <iconset resource="application.qrc">
+             <normaloff>:/resources/pics/refresh_games.png</normaloff>:/resources/pics/refresh_games.png</iconset>
            </property>
           </widget>
          </item>
