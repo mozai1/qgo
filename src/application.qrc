@@ -23,5 +23,8 @@
     <file>resources/pics/toolbar_4.png</file>
     <file>resources/pics/board_icon_16x16.png</file>
     <file>resources/pics/toolbar_5.png</file>
+    <file>resources/pics/refresh_48x48.png</file>
+    <file>resources/pics/refresh_32x32.png</file>
+    <file>resources/pics/refresh_16x16.png</file>
   </qresource>
 </RCC>

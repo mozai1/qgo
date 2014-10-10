@@ -723,7 +723,7 @@
            </property>
            <property name="icon">
             <iconset resource="application.qrc">
-             <normaloff>:/resources/pics/refresh_players.png</normaloff>:/resources/pics/refresh_players.png</iconset>
+             <normaloff>:/resources/pics/refresh_32x32.png</normaloff>:/resources/pics/refresh_32x32.png</iconset>
            </property>
           </widget>
          </item>
@@ -833,7 +833,7 @@
            </property>
            <property name="icon">
             <iconset resource="application.qrc">
-             <normaloff>:/resources/pics/refresh_games.png</normaloff>:/resources/pics/refresh_games.png</iconset>
+             <normaloff>:/resources/pics/refresh_32x32.png</normaloff>:/resources/pics/refresh_32x32.png</iconset>
            </property>
           </widget>
          </item>
